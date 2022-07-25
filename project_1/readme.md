@@ -17,7 +17,7 @@
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. 
 В рамках проекта проведен анализ данных, преобразование данных и их очистка. 
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Какой кейс решаем
 Нужно считать файл с резюме, после этого провести разведывательный анализ и очистку данных, проект состоит из 4х частей
@@ -42,7 +42,7 @@
 - Дата обновление резюме
 - Авто
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом
 1. Произведено считывание данных из файла и первичный анализ структуры данных
@@ -63,15 +63,15 @@
    - удалены выбросы найденные вручную
    - удалены выбросы по возрасту с помощью метода трех сигм
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Результаты
 Проведен анализ, преобразование и очистка данных
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы
 полученны данные, которые можно использовать для дальнейшего  построения модели зависимости желаемой заработной платы от параметров соискателя.
 
 
-:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/EkaterinaTrushkina/sf_data_science/tree/main/project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
